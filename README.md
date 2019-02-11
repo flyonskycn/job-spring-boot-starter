@@ -38,3 +38,6 @@ public class HelloJobHandler extends IJobHandler{
 }
 ```
 **注意:job代码所在的包，需要能够被spring 自动扫描到。**
+
+## 样例
+[样例参见](https://github.com/flyonskycn/micro-service-study/tree/master/jobdemo)
