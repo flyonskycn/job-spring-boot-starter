@@ -1,7 +1,7 @@
 # job-spring-boot-starter
 
 ## 简介
-> 基于xxl-job,为项目中快速引入xxl-job执行器功能。
+> 基于[xxl-job](https://github.com/xuxueli/xxl-job),为项目中快速引入xxl-job执行器功能。
 ## 项目依赖
 job-spring-boot-starter依赖于[autoconfigure项目](https://github.com/flyonskycn/autoconfigure)
 
@@ -11,6 +11,7 @@ job-spring-boot-starter依赖于[autoconfigure项目](https://github.com/flyonsk
 <dependency>
     <groupId>org.flyonsky.boot</groupId>
     <artifactId>job-spring-boot-starter</artifactId>
+    <version>2.0.7.RELEASE</version>
 </dependency>
 ```
 ### 基本配置
